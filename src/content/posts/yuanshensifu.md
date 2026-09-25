@@ -2,7 +2,7 @@
 title: KCN-GenshinServer：零基础快速搭建原神私服完整教程
 published: 2026-09-26
 description: 服务器搭建
-image: ./images/neropojie1.avif
+image: ./images/Doc_image05.png
 tags: [原神,私服,技术]
 category: 服务器
 draft: false    
