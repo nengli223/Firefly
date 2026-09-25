@@ -9,8 +9,7 @@ draft: false
 ---
 
 ## nero绿色版下载
-https://wwbtc.lanzouu.com/i43ND49xig2d
-密码:GX3Z
+https://wwbtc.lanzouu.com/i43ND49xig2d      密码GX3Z
 ![Firefly](./images/neropojie2.avif)
 
 ## nero简介
